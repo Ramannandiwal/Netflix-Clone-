@@ -11,7 +11,7 @@ function Fourth() {
       </div>
         </div>
         <div className=' mr-5 flex items-center'>
-        <img style={{zIndex:"100"}} src="src/assets/maciphone.png" alt="" />
+        <img style={{zIndex:"100"}} src="	https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile-in.png" alt="" />
         <video style={{right:"29rem"}} height="400px" width="300px" className=' relative  bottom-20' autoPlay  loop>
   <source src="src/assets/video-devices-in.mp4" type="video/mp4"/>
 

@@ -5,7 +5,7 @@ function Third() {
     <div className=' bg-black flex ' style={{height:"35rem",borderBottom:"10px solid rgba(35,35,35,1)"}}>
        <div className=' flex  w-11/12 mx-auto'>
        <div className=' relative'>
-            <img height="600px" width="800px" src="src/assets/mobile.jpg" alt="" />
+            <img height="600px" width="800px" src="	https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg" alt="" />
             <div style={{left:"6rem"}} className=' bg-black flex border items-center justify-around  absolute bottom-32 w-4/6 h-32 rounded-lg'>
                 <img className=' w-24 h-20' src="src/assets/boxshot.png" alt="" />
               <div>

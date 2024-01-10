@@ -14,7 +14,7 @@ function SecondPart() {
 
 
 </video>
-        <img style={{height:"400px",width:"700px"}} src="src/assets/tv.png" alt="" />
+        <img style={{height:"400px",width:"700px"}} src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png" alt="" />
         </div>
     </div>
   )
